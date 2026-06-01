@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Gerson Joel Calidonio Aquino 👋</h1>
+<h1 align="center">Hola, soy Calidonio👋</h1>
 <h3 align="center">Pasante de Ingeniería en Sistemas | Maestro de Robótica y Computación 🚀</h3>
 
 <p align="center">
